@@ -1,6 +1,6 @@
 # 42_So_long
 
-## Project 05: Make a simple 2D game using 42 minilibx
+## Project 05: Making a simple 2D game using 42 minilibx
 
 Only a few rules to abide to.
 * The file passed to the executable, called a map (I created a few instances in the maps directory), must have a .ber extension. 
