@@ -1,6 +1,11 @@
 # Project 05: 42_so_long
 
 ##  Making a simple 2D game using 42 minilibx
+</br>
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/so_long)](https://github.com/JaeSeoKim/badge42)
+</br>
+</br>
 
 Only a few rules to abide to:
 * The file passed to the executable, called a map (I created a few instances in the maps directory), must have a .ber extension. 
